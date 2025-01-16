@@ -101,7 +101,7 @@ export default function Checkout() {
                                         <div class="d-flex flex-column px-md-5 px-4 mb-4"> <span>Name</span>
                                             <div class="inputWithIcon">
                                                 <input class="form-control checkout-form-control text-uppercase" type="text"
-                                                    placeholder="Bisman Dhillon" required />
+                                                    placeholder="Chirag Sharma" required />
                                                 <span class="far fa-user"></span>
                                             </div>
                                         </div>
